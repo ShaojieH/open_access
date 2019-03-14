@@ -1,0 +1,910 @@
+[
+    {
+        "name": "Harvard University",
+        "ranking": 1
+    },
+    {
+        "name": "Massachusetts Institute of Technology",
+        "ranking": 2
+    },
+    {
+        "name": "Stanford University",
+        "ranking": 3
+    },
+    {
+        "name": "University of California--Berkeley",
+        "ranking": 4
+    },
+    {
+        "name": "California Institute of Technology",
+        "ranking": 6
+    },
+    {
+        "name": "Columbia University",
+        "ranking": 8
+    },
+    {
+        "name": "Princeton University",
+        "ranking": 9
+    },
+    {
+        "name": "University of Washington",
+        "ranking": 10
+    },
+    {
+        "name": "Yale University",
+        "ranking": 11
+    },
+    {
+        "name": "Johns Hopkins University",
+        "ranking": 12
+    },
+    {
+        "name": "University of California--Los Angeles",
+        "ranking": 13
+    },
+    {
+        "name": "University of Chicago",
+        "ranking": 14
+    },
+    {
+        "name": "University of California--San Francisco",
+        "ranking": 15
+    },
+    {
+        "name": "University of Pennsylvania",
+        "ranking": 16
+    },
+    {
+        "name": "University of California--San Diego",
+        "ranking": 17
+    },
+    {
+        "name": "University of Michigan--Ann Arbor",
+        "ranking": 18
+    },
+    {
+        "name": "Duke University",
+        "ranking": 22
+    },
+    {
+        "name": "Cornell University",
+        "ranking": 23
+    },
+    {
+        "name": "Northwestern University",
+        "ranking": 24
+    },
+    {
+        "name": "New York University",
+        "ranking": 28
+    },
+    {
+        "name": "University of North Carolina--Chapel Hill",
+        "ranking": 32
+    },
+    {
+        "name": "Washington University in St. Louis",
+        "ranking": 32
+    },
+    {
+        "name": "University of Wisconsin--Madison",
+        "ranking": 35
+    },
+    {
+        "name": "University of Texas--Austin",
+        "ranking": 36
+    },
+    {
+        "name": "University of California--Santa Barbara",
+        "ranking": 37
+    },
+    {
+        "name": "University of Minnesota--Twin Cities",
+        "ranking": 41
+    },
+    {
+        "name": "University of Colorado--Boulder",
+        "ranking": 43
+    },
+    {
+        "name": "University of Pittsburgh",
+        "ranking": 43
+    },
+    {
+        "name": "Boston University",
+        "ranking": 46
+    },
+    {
+        "name": "Ohio State University--Columbus",
+        "ranking": 46
+    },
+    {
+        "name": "University of Maryland--College Park",
+        "ranking": 51
+    },
+    {
+        "name": "University of Illinois--Urbana-Champaign",
+        "ranking": 54
+    },
+    {
+        "name": "University of California--Santa Cruz",
+        "ranking": 58
+    },
+    {
+        "name": "University of California--Davis",
+        "ranking": 60
+    },
+    {
+        "name": "University of Southern California",
+        "ranking": 62
+    },
+    {
+        "name": "Rockefeller University",
+        "ranking": 66
+    },
+    {
+        "name": "Georgia Institute of Technology",
+        "ranking": 69
+    },
+    {
+        "name": "Pennsylvania State University--University Park",
+        "ranking": 71
+    },
+    {
+        "name": "Emory University",
+        "ranking": 73
+    },
+    {
+        "name": "Vanderbilt University",
+        "ranking": 74
+    },
+    {
+        "name": "Mount Sinai School of Medicine",
+        "ranking": 75
+    },
+    {
+        "name": "University of California--Irvine",
+        "ranking": 78
+    },
+    {
+        "name": "Carnegie Mellon University",
+        "ranking": 81
+    },
+    {
+        "name": "University of Arizona",
+        "ranking": 81
+    },
+    {
+        "name": "Michigan State University",
+        "ranking": 90
+    },
+    {
+        "name": "Brown University",
+        "ranking": 99
+    },
+    {
+        "name": "Rutgers, The State University of New Jersey--New Brunswick",
+        "ranking": 103
+    },
+    {
+        "name": "Rice University",
+        "ranking": 107
+    },
+    {
+        "name": "University of Florida",
+        "ranking": 107
+    },
+    {
+        "name": "University of Virginia",
+        "ranking": 111
+    },
+    {
+        "name": "Purdue University--West Lafayette",
+        "ranking": 113
+    },
+    {
+        "name": "University of Rochester",
+        "ranking": 118
+    },
+    {
+        "name": "University of Massachusetts--Amherst",
+        "ranking": 119
+    },
+    {
+        "name": "Texas A&M University--College Station",
+        "ranking": 125
+    },
+    {
+        "name": "University of Texas Southwestern Medical Center--Dallas",
+        "ranking": 125
+    },
+    {
+        "name": "Baylor College of Medicine",
+        "ranking": 132
+    },
+    {
+        "name": "University of Utah",
+        "ranking": 132
+    },
+    {
+        "name": "Indiana University--Bloomington",
+        "ranking": 138
+    },
+    {
+        "name": "Arizona State University--Tempe",
+        "ranking": 145
+    },
+    {
+        "name": "University of California--Riverside",
+        "ranking": 151
+    },
+    {
+        "name": "Case Western Reserve University",
+        "ranking": 152
+    },
+    {
+        "name": "Oregon Health & Science University",
+        "ranking": 155
+    },
+    {
+        "name": "University of Alabama--Birmingham",
+        "ranking": 159
+    },
+    {
+        "name": "University of Iowa",
+        "ranking": 159
+    },
+    {
+        "name": "Stony Brook University--SUNY",
+        "ranking": 166
+    },
+    {
+        "name": "Tufts University",
+        "ranking": 179
+    },
+    {
+        "name": "University of Miami",
+        "ranking": 185
+    },
+    {
+        "name": "University of Cincinnati",
+        "ranking": 189
+    },
+    {
+        "name": "Florida State University",
+        "ranking": 193
+    },
+    {
+        "name": "Dartmouth College",
+        "ranking": 197
+    },
+    {
+        "name": "Northeastern University",
+        "ranking": 202
+    },
+    {
+        "name": "University of Tennessee",
+        "ranking": 202
+    },
+    {
+        "name": "University of Illinois--Chicago",
+        "ranking": 204
+    },
+    {
+        "name": "University of Notre Dame",
+        "ranking": 208
+    },
+    {
+        "name": "Iowa State University",
+        "ranking": 212
+    },
+    {
+        "name": "University of Maryland--Baltimore",
+        "ranking": 214
+    },
+    {
+        "name": "North Carolina State University--Raleigh",
+        "ranking": 217
+    },
+    {
+        "name": "Yeshiva University",
+        "ranking": 245
+    },
+    {
+        "name": "University of Oregon",
+        "ranking": 250
+    },
+    {
+        "name": "University of New Mexico",
+        "ranking": 251
+    },
+    {
+        "name": "Brandeis University",
+        "ranking": 251
+    },
+    {
+        "name": "University at Buffalo--SUNY",
+        "ranking": 253
+    },
+    {
+        "name": "George Washington University",
+        "ranking": 257
+    },
+    {
+        "name": "Virginia Tech",
+        "ranking": 257
+    },
+    {
+        "name": "Oregon State University",
+        "ranking": 259
+    },
+    {
+        "name": "University of Texas--Dallas",
+        "ranking": 260
+    },
+    {
+        "name": "University of Kansas",
+        "ranking": 266
+    },
+    {
+        "name": "Colorado State University",
+        "ranking": 270
+    },
+    {
+        "name": "University of Georgia",
+        "ranking": 280
+    },
+    {
+        "name": "University of South Florida",
+        "ranking": 286
+    },
+    {
+        "name": "Georgetown University",
+        "ranking": 289
+    },
+    {
+        "name": "University of Nebraska--Lincoln",
+        "ranking": 289
+    },
+    {
+        "name": "University of Delaware",
+        "ranking": 297
+    },
+    {
+        "name": "Wayne State University",
+        "ranking": 302
+    },
+    {
+        "name": "Indiana University-Purdue University--Indianapolis",
+        "ranking": 305
+    },
+    {
+        "name": "University of Connecticut",
+        "ranking": 310
+    },
+    {
+        "name": "Washington State University",
+        "ranking": 310
+    },
+    {
+        "name": "University at Albany--SUNY",
+        "ranking": 316
+    },
+    {
+        "name": "University of South Carolina",
+        "ranking": 316
+    },
+    {
+        "name": "University of Kentucky",
+        "ranking": 330
+    },
+    {
+        "name": "University of Colorado--Denver",
+        "ranking": 333
+    },
+    {
+        "name": "Temple University",
+        "ranking": 347
+    },
+    {
+        "name": "University of Missouri",
+        "ranking": 350
+    },
+    {
+        "name": "Wake Forest University",
+        "ranking": 354
+    },
+    {
+        "name": "University of Massachusetts Worcester",
+        "ranking": 356
+    },
+    {
+        "name": "Syracuse University",
+        "ranking": 361
+    },
+    {
+        "name": "University of Hawaii--Manoa",
+        "ranking": 361
+    },
+    {
+        "name": "Louisiana State University--Baton Rouge",
+        "ranking": 373
+    },
+    {
+        "name": "Thomas Jefferson University",
+        "ranking": 373
+    },
+    {
+        "name": "Virginia Commonwealth University",
+        "ranking": 373
+    },
+    {
+        "name": "Baylor University",
+        "ranking": 388
+    },
+    {
+        "name": "University of Houston",
+        "ranking": 388
+    },
+    {
+        "name": "University of Mississippi",
+        "ranking": 388
+    },
+    {
+        "name": "Drexel University",
+        "ranking": 395
+    },
+    {
+        "name": "Kansas State University",
+        "ranking": 401
+    },
+    {
+        "name": "George Mason University",
+        "ranking": 403
+    },
+    {
+        "name": "Florida International University",
+        "ranking": 409
+    },
+    {
+        "name": "Medical University of South Carolina",
+        "ranking": 409
+    },
+    {
+        "name": "Rush University",
+        "ranking": 414
+    },
+    {
+        "name": "University of Oklahoma",
+        "ranking": 414
+    },
+    {
+        "name": "University of Texas--San Antonio",
+        "ranking": 421
+    },
+    {
+        "name": "University of Alabama",
+        "ranking": 438
+    },
+    {
+        "name": "University of Vermont",
+        "ranking": 443
+    },
+    {
+        "name": "University of Texas--Arlington",
+        "ranking": 446
+    },
+    {
+        "name": "University of Wisconsin--Milwaukee",
+        "ranking": 448
+    },
+    {
+        "name": "Georgia State University",
+        "ranking": 454
+    },
+    {
+        "name": "Tulane University",
+        "ranking": 460
+    },
+    {
+        "name": "Boston College",
+        "ranking": 468
+    },
+    {
+        "name": "Texas Tech University",
+        "ranking": 471
+    },
+    {
+        "name": "Colorado School of Mines",
+        "ranking": 475
+    },
+    {
+        "name": "Rensselaer Polytechnic Institute",
+        "ranking": 480
+    },
+    {
+        "name": "Southern Methodist University",
+        "ranking": 480
+    },
+    {
+        "name": "University of Central Florida",
+        "ranking": 486
+    },
+    {
+        "name": "University of New Hampshire",
+        "ranking": 500
+    },
+    {
+        "name": "Medical College of Wisconsin",
+        "ranking": 503
+    },
+    {
+        "name": "Oklahoma State University",
+        "ranking": 503
+    },
+    {
+        "name": "College of William and Mary",
+        "ranking": 526
+    },
+    {
+        "name": "University of Louisville",
+        "ranking": 538
+    },
+    {
+        "name": "San Diego State University",
+        "ranking": 542
+    },
+    {
+        "name": "University of Massachusetts--Boston",
+        "ranking": 557
+    },
+    {
+        "name": "Montana State University",
+        "ranking": 567
+    },
+    {
+        "name": "St. Louis University",
+        "ranking": 567
+    },
+    {
+        "name": "Kent State University",
+        "ranking": 575
+    },
+    {
+        "name": "Northern Arizona University",
+        "ranking": 583
+    },
+    {
+        "name": "University of Alaska--Fairbanks",
+        "ranking": 590
+    },
+    {
+        "name": "Brigham Young University--Provo",
+        "ranking": 601
+    },
+    {
+        "name": "West Virginia University",
+        "ranking": 609
+    },
+    {
+        "name": "University of North Texas",
+        "ranking": 611
+    },
+    {
+        "name": "University of Missouri--Kansas City",
+        "ranking": 616
+    },
+    {
+        "name": "University of Montana",
+        "ranking": 621
+    },
+    {
+        "name": "Clemson University",
+        "ranking": 621
+    },
+    {
+        "name": "University of Maryland--Baltimore County",
+        "ranking": 627
+    },
+    {
+        "name": "University of Texas Medical Branch--Galveston",
+        "ranking": 627
+    },
+    {
+        "name": "University of Arkansas",
+        "ranking": 637
+    },
+    {
+        "name": "Utah State University",
+        "ranking": 637
+    },
+    {
+        "name": "Illinois Institute of Technology",
+        "ranking": 641
+    },
+    {
+        "name": "Loyola University Chicago",
+        "ranking": 644
+    },
+    {
+        "name": "University of California--Merced",
+        "ranking": 644
+    },
+    {
+        "name": "Northern Illinois University",
+        "ranking": 656
+    },
+    {
+        "name": "Auburn University",
+        "ranking": 658
+    },
+    {
+        "name": "Ohio University",
+        "ranking": 658
+    },
+    {
+        "name": "University of Wyoming",
+        "ranking": 658
+    },
+    {
+        "name": "CUNY--City College",
+        "ranking": 669
+    },
+    {
+        "name": "New Mexico State University",
+        "ranking": 669
+    },
+    {
+        "name": "Rochester Institute of Technology",
+        "ranking": 669
+    },
+    {
+        "name": "Augusta University",
+        "ranking": 675
+    },
+    {
+        "name": "University of Idaho",
+        "ranking": 678
+    },
+    {
+        "name": "University of Denver",
+        "ranking": 680
+    },
+    {
+        "name": "Howard University",
+        "ranking": 692
+    },
+    {
+        "name": "University of Nevada--Reno",
+        "ranking": 703
+    },
+    {
+        "name": "Lehigh University",
+        "ranking": 708
+    },
+    {
+        "name": "University of Rhode Island",
+        "ranking": 729
+    },
+    {
+        "name": "Binghamton University--SUNY",
+        "ranking": 734
+    },
+    {
+        "name": "Michigan Technological University",
+        "ranking": 734
+    },
+    {
+        "name": "Old Dominion University",
+        "ranking": 738
+    },
+    {
+        "name": "University of Nevada--Las Vegas",
+        "ranking": 743
+    },
+    {
+        "name": "American University",
+        "ranking": 745
+    },
+    {
+        "name": "University of Akron",
+        "ranking": 753
+    },
+    {
+        "name": "New York Medical College",
+        "ranking": 759
+    },
+    {
+        "name": "University of North Carolina--Charlotte",
+        "ranking": 764
+    },
+    {
+        "name": "Mississippi State University",
+        "ranking": 764
+    },
+    {
+        "name": "Creighton University",
+        "ranking": 769
+    },
+    {
+        "name": "New Jersey Institute of Technology",
+        "ranking": 782
+    },
+    {
+        "name": "University of Louisiana--Lafayette",
+        "ranking": 788
+    },
+    {
+        "name": "Missouri University of Science & Technology",
+        "ranking": 802
+    },
+    {
+        "name": "University of Alabama--Huntsville",
+        "ranking": 816
+    },
+    {
+        "name": "University of Texas Rio Grande Valley",
+        "ranking": 826
+    },
+    {
+        "name": "Portland State University",
+        "ranking": 831
+    },
+    {
+        "name": "University of Toledo",
+        "ranking": 834
+    },
+    {
+        "name": "California State University Fullerton",
+        "ranking": 837
+    },
+    {
+        "name": "CUNY--Hunter College",
+        "ranking": 853
+    },
+    {
+        "name": "San Francisco State University",
+        "ranking": 863
+    },
+    {
+        "name": "University of Texas El Paso",
+        "ranking": 880
+    },
+    {
+        "name": "Miami University--Oxford",
+        "ranking": 886
+    },
+    {
+        "name": "Southern Illinois University--Carbondale",
+        "ranking": 890
+    },
+    {
+        "name": "University of Oklahoma Health Sciences Center",
+        "ranking": 894
+    },
+    {
+        "name": "Uniformed Services University of the Health Sciences",
+        "ranking": 898
+    },
+    {
+        "name": "University of Arkansas Medical Sciences",
+        "ranking": 903
+    },
+    {
+        "name": "North Dakota State University",
+        "ranking": 905
+    },
+    {
+        "name": "Texas A&M Health Science Center",
+        "ranking": 914
+    },
+    {
+        "name": "Florida Atlantic University",
+        "ranking": 924
+    },
+    {
+        "name": "Loma Linda University",
+        "ranking": 924
+    },
+    {
+        "name": "Hofstra University",
+        "ranking": 927
+    },
+    {
+        "name": "Worcester Polytechnic Institute",
+        "ranking": 933
+    },
+    {
+        "name": "University of Missouri--St. Louis",
+        "ranking": 934
+    },
+    {
+        "name": "University of North Carolina--Greensboro",
+        "ranking": 942
+    },
+    {
+        "name": "University of North Dakota",
+        "ranking": 964
+    },
+    {
+        "name": "Boise State University",
+        "ranking": 967
+    },
+    {
+        "name": "Rutgers State University Newark",
+        "ranking": 1001
+    },
+    {
+        "name": "Fordham University",
+        "ranking": 1005
+    },
+    {
+        "name": "East Carolina University",
+        "ranking": 1023
+    },
+    {
+        "name": "Oakland University",
+        "ranking": 1028
+    },
+    {
+        "name": "Villanova University",
+        "ranking": 1028
+    },
+    {
+        "name": "University of Memphis",
+        "ranking": 1035
+    },
+    {
+        "name": "University of Massachusetts--Lowell",
+        "ranking": 1037
+    },
+    {
+        "name": "South Dakota State University",
+        "ranking": 1055
+    },
+    {
+        "name": "Bowling Green State University",
+        "ranking": 1058
+    },
+    {
+        "name": "Wright State University Dayton",
+        "ranking": 1060
+    },
+    {
+        "name": "The Catholic University of America",
+        "ranking": 1066
+    },
+    {
+        "name": "Albany Medical College",
+        "ranking": 1070
+    },
+    {
+        "name": "Western Michigan University",
+        "ranking": 1084
+    },
+    {
+        "name": "Marquette University",
+        "ranking": 1100
+    },
+    {
+        "name": "Illinois State University",
+        "ranking": 1139
+    },
+    {
+        "name": "University of Puerto Rico--Medical Sciences Campus",
+        "ranking": 1179
+    },
+    {
+        "name": "University of South Alabama",
+        "ranking": 1186
+    },
+    {
+        "name": "DePaul University",
+        "ranking": 1221
+    },
+    {
+        "name": "Texas State University San Marcos",
+        "ranking": 1249
+    }
+]
