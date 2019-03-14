@@ -12,7 +12,7 @@
         "ranking": 3
     },
     {
-        "name": "University of California at Berkeley",
+        "name": "University of California--Berkeley",
         "ranking": 4
     },
     {
@@ -40,7 +40,7 @@
         "ranking": 12
     },
     {
-        "name": "University of California at Los Angeles",
+        "name": "University of California--Los Angeles",
         "ranking": 13
     },
     {
@@ -48,7 +48,7 @@
         "ranking": 14
     },
     {
-        "name": "University of California at San Francisco",
+        "name": "University of California--San Francisco",
         "ranking": 15
     },
     {
@@ -56,7 +56,7 @@
         "ranking": 16
     },
     {
-        "name": "University of California at San Diego",
+        "name": "University of California--San Diego",
         "ranking": 17
     },
     {
@@ -92,11 +92,11 @@
         "ranking": 35
     },
     {
-        "name": "University of Texas at Austin",
+        "name": "University of Texas--Austin",
         "ranking": 36
     },
     {
-        "name": "University of California at Santa Barbara",
+        "name": "University of California--Santa Barbara",
         "ranking": 37
     },
     {
@@ -128,11 +128,11 @@
         "ranking": 54
     },
     {
-        "name": "University of California at Santa Cruz",
+        "name": "University of California--Santa Cruz",
         "ranking": 58
     },
     {
-        "name": "University of California at Davis",
+        "name": "University of California--Davis",
         "ranking": 60
     },
     {
@@ -164,7 +164,7 @@
         "ranking": 75
     },
     {
-        "name": "University of California at Irvine",
+        "name": "University of California--Irvine",
         "ranking": 78
     },
     {
@@ -236,7 +236,7 @@
         "ranking": 145
     },
     {
-        "name": "University of California at Riverside",
+        "name": "University of California--Riverside",
         "ranking": 151
     },
     {
@@ -324,7 +324,7 @@
         "ranking": 251
     },
     {
-        "name": "University at Buffalo, State University of New York,",
+        "name": "University at Buffalo--SUNY",
         "ranking": 253
     },
     {
@@ -340,7 +340,7 @@
         "ranking": 259
     },
     {
-        "name": "University of Texas at Dallas",
+        "name": "University of Texas--Dallas",
         "ranking": 260
     },
     {
@@ -388,7 +388,7 @@
         "ranking": 310
     },
     {
-        "name": "University at Albany, State University of New York",
+        "name": "University at Albany--SUNY",
         "ranking": 316
     },
     {
@@ -480,7 +480,7 @@
         "ranking": 414
     },
     {
-        "name": "University of Texas at San Antonio",
+        "name": "University of Texas--San Antonio",
         "ranking": 421
     },
     {
@@ -492,7 +492,7 @@
         "ranking": 443
     },
     {
-        "name": "University of Texas at Arlington",
+        "name": "University of Texas--Arlington",
         "ranking": 446
     },
     {
@@ -628,7 +628,7 @@
         "ranking": 644
     },
     {
-        "name": "University of California at Merced",
+        "name": "University of California--Merced",
         "ranking": 644
     },
     {
@@ -676,7 +676,7 @@
         "ranking": 692
     },
     {
-        "name": "University of Nevada at Reno",
+        "name": "University of Nevada--Reno",
         "ranking": 703
     },
     {
@@ -700,7 +700,7 @@
         "ranking": 738
     },
     {
-        "name": "University of Nevada at Las Vegas",
+        "name": "University of Nevada--Las Vegas",
         "ranking": 743
     },
     {
@@ -716,7 +716,7 @@
         "ranking": 759
     },
     {
-        "name": "University of North Carolina at Charlotte",
+        "name": "University of North Carolina--Charlotte",
         "ranking": 764
     },
     {
@@ -732,7 +732,7 @@
         "ranking": 782
     },
     {
-        "name": "University of Louisiana at Lafayette",
+        "name": "University of Louisiana--Lafayette",
         "ranking": 788
     },
     {
@@ -740,7 +740,7 @@
         "ranking": 802
     },
     {
-        "name": "University of Alabama at Huntsville",
+        "name": "University of Alabama--Huntsville",
         "ranking": 816
     },
     {
@@ -820,7 +820,7 @@
         "ranking": 934
     },
     {
-        "name": "University of North Carolina at Greensboro",
+        "name": "University of North Carolina--Greensboro",
         "ranking": 942
     },
     {
