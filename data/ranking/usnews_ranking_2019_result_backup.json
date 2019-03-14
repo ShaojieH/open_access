@@ -1,0 +1,1250 @@
+[
+{
+"name": "princeton university",
+"aff_id": "20089843"
+},
+{
+"name": "harvard university",
+"aff_id": "136199984"
+},
+{
+"name": "columbia university",
+"aff_id": "78577930"
+},
+{
+"name": "massachusetts institute of technology",
+"aff_id": "63966007"
+},
+{
+"name": "university of chicago",
+"aff_id": "40347166"
+},
+{
+"name": "yale university",
+"aff_id": "32971472"
+},
+{
+"name": "stanford university",
+"aff_id": "97018004"
+},
+{
+"name": "duke university",
+"aff_id": "170897317"
+},
+{
+"name": "university of pennsylvania",
+"aff_id": "79576946"
+},
+{
+"name": "johns hopkins university",
+"aff_id": "145311948"
+},
+{
+"name": "northwestern university",
+"aff_id": "111979921"
+},
+{
+"name": "california institute of technology",
+"aff_id": "122411786"
+},
+{
+"name": "dartmouth college",
+"aff_id": "107672454"
+},
+{
+"name": "brown university",
+"aff_id": "27804330"
+},
+{
+"name": "vanderbilt university",
+"aff_id": "200719446"
+},
+{
+"name": "cornell university",
+"aff_id": "205783295"
+},
+{
+"name": "rice university",
+"aff_id": "74775410"
+},
+{
+"name": "university of notre dame",
+"aff_id": "107639228"
+},
+{
+"name": "university of california los angeles",
+"aff_id": "161318765"
+},
+{
+"name": "washington university in st louis",
+"aff_id": "204465549"
+},
+{
+"name": "emory university",
+"aff_id": "150468666"
+},
+{
+"name": "georgetown university",
+"aff_id": "184565670"
+},
+{
+"name": "university of california berkeley",
+"aff_id": "95457486"
+},
+{
+"name": "university of southern california",
+"aff_id": "1174212"
+},
+{
+"name": "carnegie mellon university",
+"aff_id": "74973139"
+},
+{
+"name": "university of virginia",
+"aff_id": "51556381"
+},
+{
+"name": "tufts university",
+"aff_id": "121934306"
+},
+{
+"name": "university of michigan ann arbor",
+"aff_id": "27837315"
+},
+{
+"name": "wake forest university",
+"aff_id": "47251452"
+},
+{
+"name": "new york university",
+"aff_id": "57206974"
+},
+{
+"name": "university of california santa barbara",
+"aff_id": "154570441"
+},
+{
+"name": "university of north carolina chapel hill",
+"aff_id": "114027177"
+},
+{
+"name": "university of california irvine",
+"aff_id": "204250578"
+},
+{
+"name": "university of rochester",
+"aff_id": "5388228"
+},
+{
+"name": "brandeis university",
+"aff_id": "6902469"
+},
+{
+"name": "georgia institute of technology",
+"aff_id": "130701444"
+},
+{
+"name": "university of florida",
+"aff_id": "33213144"
+},
+{
+"name": "boston college",
+"aff_id": "103531236"
+},
+{
+"name": "college of william and mary",
+"aff_id": "16285277"
+},
+{
+"name": "university of california davis",
+"aff_id": "84218800"
+},
+{
+"name": "university of california san diego",
+"aff_id": "36258959"
+},
+{
+"name": "boston university",
+"aff_id": "111088046"
+},
+{
+"name": "case western reserve university",
+"aff_id": "58956616"
+},
+{
+"name": "northeastern university",
+"aff_id": "12912129"
+},
+{
+"name": "tulane university",
+"aff_id": "114832834"
+},
+{
+"name": "pepperdine university",
+"aff_id": "100191712"
+},
+{
+"name": "university of georgia",
+"aff_id": "165733156"
+},
+{
+"name": "university of illinois urbana-champaign",
+"aff_id": "157725225"
+},
+{
+"name": "rensselaer polytechnic institute",
+"aff_id": "165799507"
+},
+{
+"name": "university of texas austin",
+"aff_id": "86519309"
+},
+{
+"name": "university of wisconsin madison",
+"aff_id": "135310074"
+},
+{
+"name": "villanova university",
+"aff_id": "7863295"
+},
+{
+"name": "lehigh university",
+"aff_id": "186143895"
+},
+{
+"name": "syracuse university",
+"aff_id": "70983195"
+},
+{
+"name": "university of miami",
+"aff_id": "145608581"
+},
+{
+"name": "ohio state university columbus",
+"aff_id": "52357470"
+},
+{
+"name": "purdue university west lafayette",
+"aff_id": "219193219"
+},
+{
+"name": "rutgers university new brunswick",
+"aff_id": "102322142"
+},
+{
+"name": "pennsylvania state university university park",
+"aff_id": "130769515"
+},
+{
+"name": "southern methodist university",
+"aff_id": "178169726"
+},
+{
+"name": "university of washington",
+"aff_id": "201448701"
+},
+{
+"name": "worcester polytechnic institute",
+"aff_id": "107077323"
+},
+{
+"name": "george washington university",
+"aff_id": "193531525"
+},
+{
+"name": "university of connecticut",
+"aff_id": "140172145"
+},
+{
+"name": "university of maryland college park",
+"aff_id": "66946132"
+},
+{
+"name": "brigham young university provo",
+"aff_id": "100005738"
+},
+{
+"name": "clark university",
+"aff_id": "130785548"
+},
+{
+"name": "clemson university",
+"aff_id": "8078737"
+},
+{
+"name": "texas a&m university college station",
+"aff_id": "58152225"
+},
+{
+"name": "florida state university",
+"aff_id": "103163165"
+},
+{
+"name": "fordham university",
+"aff_id": "164389053"
+},
+{
+"name": "stevens institute of technology",
+"aff_id": "108468826"
+},
+{
+"name": "university of california santa cruz",
+"aff_id": "185103710"
+},
+{
+"name": "university of massachusetts amherst",
+"aff_id": "24603500"
+},
+{
+"name": "university of pittsburgh",
+"aff_id": "170201317"
+},
+{
+"name": "university of minnesota twin cities",
+"aff_id": "130238516"
+},
+{
+"name": "virginia tech",
+"aff_id": "859038795"
+},
+{
+"name": "american university",
+"aff_id": "181401687"
+},
+{
+"name": "baylor university",
+"aff_id": "157394403"
+},
+{
+"name": "binghamton university suny",
+"aff_id": "123946342"
+},
+{
+"name": "colorado school of mines",
+"aff_id": "167576493"
+},
+{
+"name": "north carolina state university raleigh",
+"aff_id": "137902535"
+},
+{
+"name": "stony brook university suny",
+"aff_id": "59553526"
+},
+{
+"name": "texas christian university",
+"aff_id": "128956969"
+},
+{
+"name": "yeshiva university",
+"aff_id": "19772626"
+},
+{
+"name": "michigan state university",
+"aff_id": "87216513"
+},
+{
+"name": "university of california riverside",
+"aff_id": "103635307"
+},
+{
+"name": "university of san diego",
+"aff_id": "160856358"
+},
+{
+"name": "howard university",
+"aff_id": "137853757"
+},
+{
+"name": "indiana university bloomington",
+"aff_id": "165450437"
+},
+{
+"name": "loyola university chicago",
+"aff_id": "1925986"
+},
+{
+"name": "marquette university",
+"aff_id": "102461120"
+},
+{
+"name": "university at buffalo suny",
+"aff_id": "63190737"
+},
+{
+"name": "university of delaware",
+"aff_id": "86501945"
+},
+{
+"name": "university of iowa",
+"aff_id": "126307644"
+},
+{
+"name": "illinois institute of technology",
+"aff_id": "180949307"
+},
+{
+"name": "miami university oxford",
+"aff_id": "83328450"
+},
+{
+"name": "university of colorado boulder",
+"aff_id": "188538660"
+},
+{
+"name": "university of denver",
+"aff_id": "131651094"
+},
+{
+"name": "university of san francisco",
+"aff_id": "76766440"
+},
+{
+"name": "university of vermont",
+"aff_id": "111236770"
+},
+{
+"name": "clarkson university",
+"aff_id": "16944753"
+},
+{
+"name": "drexel university",
+"aff_id": "72816309"
+},
+{
+"name": "rochester institute of technology",
+"aff_id": "155173764"
+},
+{
+"name": "university of oregon",
+"aff_id": "181233156"
+},
+{
+"name": "new jersey institute of technology",
+"aff_id": "118118575"
+},
+{
+"name": "saint louis university",
+"aff_id": "47838141"
+},
+{
+"name": "suny college of environmental science and forestry",
+"aff_id": "157349981"
+},
+{
+"name": "temple university",
+"aff_id": "84392919"
+},
+{
+"name": "university of arizona",
+"aff_id": "138006243"
+},
+{
+"name": "university of new hampshire",
+"aff_id": "161057412"
+},
+{
+"name": "university of south carolina",
+"aff_id": "155781252"
+},
+{
+"name": "university of the pacific",
+"aff_id": "119942576"
+},
+{
+"name": "university of tulsa",
+"aff_id": "87208437"
+},
+{
+"name": "arizona state university tempe",
+"aff_id": "55732556"
+},
+{
+"name": "auburn university",
+"aff_id": "82497590"
+},
+{
+"name": "rutgers university newark",
+"aff_id": "102322142"
+},
+{
+"name": "university of tennessee",
+"aff_id": "75027704"
+},
+{
+"name": "depaul university",
+"aff_id": "118353179"
+},
+{
+"name": "duquesne university",
+"aff_id": "165102784"
+},
+{
+"name": "iowa state university",
+"aff_id": "173911158"
+},
+{
+"name": "seton hall university",
+"aff_id": "12524447"
+},
+{
+"name": "university of utah",
+"aff_id": "223532165"
+},
+{
+"name": "university of south florida",
+"aff_id": "2613432"
+},
+{
+"name": "university of st thomas",
+"aff_id": "161515732"
+},
+{
+"name": "san diego state university",
+"aff_id": "26538001"
+},
+{
+"name": "university of dayton",
+"aff_id": "127591826"
+},
+{
+"name": "the catholic university of america",
+"aff_id": "84470341"
+},
+{
+"name": "university of alabama",
+"aff_id": "17301866"
+},
+{
+"name": "university of illinois chicago",
+"aff_id": "39422238"
+},
+{
+"name": "university of kansas",
+"aff_id": "146416000"
+},
+{
+"name": "university of missouri",
+"aff_id": "76835614"
+},
+{
+"name": "university of nebraska lincoln",
+"aff_id": "114395901"
+},
+{
+"name": "university of texas dallas",
+"aff_id": -1
+},
+{
+"name": "george mason university",
+"aff_id": "162714631"
+},
+{
+"name": "michigan technological university",
+"aff_id": "11957088"
+},
+{
+"name": "university of california merced",
+"aff_id": "156087764"
+},
+{
+"name": "university of la verne",
+"aff_id": "708430"
+},
+{
+"name": "colorado state university",
+"aff_id": "92446798"
+},
+{
+"name": "hofstra university",
+"aff_id": "139290212"
+},
+{
+"name": "louisiana state university baton rouge",
+"aff_id": "121820613"
+},
+{
+"name": "mercer university",
+"aff_id": "150149174"
+},
+{
+"name": "oregon state university",
+"aff_id": "131249849"
+},
+{
+"name": "university at albany suny",
+"aff_id": "392282"
+},
+{
+"name": "washington state university",
+"aff_id": "72951846"
+},
+{
+"name": "adelphi university",
+"aff_id": "71965598"
+},
+{
+"name": "kansas state university",
+"aff_id": "189590672"
+},
+{
+"name": "the new school",
+"aff_id": "102179633"
+},
+{
+"name": "university of cincinnati",
+"aff_id": "63135867"
+},
+{
+"name": "university of kentucky",
+"aff_id": "143302722"
+},
+{
+"name": "st john fisher college",
+"aff_id": "910567637"
+},
+{
+"name": "st john's university",
+"aff_id": -1
+},
+{
+"name": "union university",
+"aff_id": "155673605"
+},
+{
+"name": "university of arkansas",
+"aff_id": "78715868"
+},
+{
+"name": "university of mississippi",
+"aff_id": "368840534"
+},
+{
+"name": "biola university",
+"aff_id": "152479009"
+},
+{
+"name": "missouri university of science & technology",
+"aff_id": -1
+},
+{
+"name": "oklahoma state university",
+"aff_id": -1
+},
+{
+"name": "university of alabama birmingham",
+"aff_id": -1
+},
+{
+"name": "university of hawaii manoa",
+"aff_id": -1
+},
+{
+"name": "university of massachusetts lowell",
+"aff_id": "133738476"
+},
+{
+"name": "university of rhode island",
+"aff_id": "17626003"
+},
+{
+"name": "virginia commonwealth university",
+"aff_id": "184840846"
+},
+{
+"name": "edgewood college",
+"aff_id": -1
+},
+{
+"name": "university of central florida",
+"aff_id": "106165777"
+},
+{
+"name": "university of idaho",
+"aff_id": "155093810"
+},
+{
+"name": "university of maryland baltimore county",
+"aff_id": "79272384"
+},
+{
+"name": "montclair state university",
+"aff_id": "166088655"
+},
+{
+"name": "seattle pacific university",
+"aff_id": "11317958"
+},
+{
+"name": "ball state university",
+"aff_id": "198089087"
+},
+{
+"name": "illinois state university",
+"aff_id": "47301684"
+},
+{
+"name": "ohio university",
+"aff_id": "22759111"
+},
+{
+"name": "rowan university",
+"aff_id": "44265643"
+},
+{
+"name": "university of houston",
+"aff_id": "44461941"
+},
+{
+"name": "university of louisville",
+"aff_id": "142740786"
+},
+{
+"name": "florida institute of technology",
+"aff_id": "106959904"
+},
+{
+"name": "maryville university of st louis",
+"aff_id": -1
+},
+{
+"name": "mississippi state university",
+"aff_id": "99041443"
+},
+{
+"name": "pace university",
+"aff_id": "126863827"
+},
+{
+"name": "suffolk university",
+"aff_id": "24306055"
+},
+{
+"name": "university of maine",
+"aff_id": "7947594"
+},
+{
+"name": "immaculata university",
+"aff_id": -1
+},
+{
+"name": "lesley university",
+"aff_id": -1
+},
+{
+"name": "robert morris university",
+"aff_id": "194807695"
+},
+{
+"name": "university of wyoming",
+"aff_id": "12834331"
+},
+{
+"name": "florida international university",
+"aff_id": "19700959"
+},
+{
+"name": "georgia state university",
+"aff_id": "181565077"
+},
+{
+"name": "texas tech university",
+"aff_id": "12315562"
+},
+{
+"name": "university of new mexico",
+"aff_id": "169521973"
+},
+{
+"name": "kent state university",
+"aff_id": "149910238"
+},
+{
+"name": "nova southeastern university",
+"aff_id": "203088144"
+},
+{
+"name": "university of massachusetts boston",
+"aff_id": "33434090"
+},
+{
+"name": "andrews university",
+"aff_id": "102298084"
+},
+{
+"name": "east carolina university",
+"aff_id": "186335123"
+},
+{
+"name": "indiana university-purdue university indianapolis",
+"aff_id": "55769427"
+},
+{
+"name": "lipscomb university",
+"aff_id": "192487284"
+},
+{
+"name": "university of hartford",
+"aff_id": "162281398"
+},
+{
+"name": "university of north carolina charlotte",
+"aff_id": "102149020"
+},
+{
+"name": "widener university",
+"aff_id": "138659443"
+},
+{
+"name": "regent university",
+"aff_id": "153338809"
+},
+{
+"name": "university of montana",
+"aff_id": "6750721"
+},
+{
+"name": "university of nevada reno",
+"aff_id": "134113660"
+},
+{
+"name": "university of north carolina greensboro",
+"aff_id": "169335092"
+},
+{
+"name": "azusa pacific university",
+"aff_id": "96408169"
+},
+{
+"name": "california state university fresno",
+"aff_id": "67328108"
+},
+{
+"name": "central michigan university",
+"aff_id": "1629065"
+},
+{
+"name": "montana state university",
+"aff_id": "23732399"
+},
+{
+"name": "university of colorado denver",
+"aff_id": "921990950"
+},
+{
+"name": "university of north dakota",
+"aff_id": "24571045"
+},
+{
+"name": "utah state university",
+"aff_id": "121980950"
+},
+{
+"name": "wayne state university",
+"aff_id": "185443292"
+},
+{
+"name": "western michigan university",
+"aff_id": "141649380"
+},
+{
+"name": "west virginia university",
+"aff_id": "12097938"
+},
+{
+"name": "bowling green state university",
+"aff_id": "157417397"
+},
+{
+"name": "north dakota state university",
+"aff_id": "57328836"
+},
+{
+"name": "old dominion university",
+"aff_id": "81365321"
+},
+{
+"name": "shenandoah university",
+"aff_id": -1
+},
+{
+"name": "university of alaska fairbanks",
+"aff_id": "141472210"
+},
+{
+"name": "university of massachusetts dartmouth",
+"aff_id": "100633361"
+},
+{
+"name": "benedictine university",
+"aff_id": -1
+},
+{
+"name": "california state university fullerton",
+"aff_id": "142934699"
+},
+{
+"name": "dallas baptist university",
+"aff_id": -1
+},
+{
+"name": "new mexico state university",
+"aff_id": "10052268"
+},
+{
+"name": "university of texas arlington",
+"aff_id": -1
+},
+{
+"name": "south dakota state university",
+"aff_id": "177156846"
+},
+{
+"name": "southern illinois university carbondale",
+"aff_id": "110378019"
+},
+{
+"name": "university of missouri st louis",
+"aff_id": "208333798"
+},
+{
+"name": "university of south dakota",
+"aff_id": "189957204"
+},
+{
+"name": "american international college",
+"aff_id": -1
+},
+{
+"name": "ashland university",
+"aff_id": "195875291"
+},
+{
+"name": "augusta university",
+"aff_id": -1
+},
+{
+"name": "barry university",
+"aff_id": "151583259"
+},
+{
+"name": "boise state university",
+"aff_id": "120156002"
+},
+{
+"name": "cardinal stritch university",
+"aff_id": "82977932"
+},
+{
+"name": "clark atlanta university",
+"aff_id": "52064589"
+},
+{
+"name": "cleveland state university",
+"aff_id": "102607778"
+},
+{
+"name": "eastern michigan university",
+"aff_id": "138216421"
+},
+{
+"name": "east tennessee state university",
+"aff_id": "119443389"
+},
+{
+"name": "florida a&m university",
+"aff_id": -1
+},
+{
+"name": "florida atlantic university",
+"aff_id": "63772739"
+},
+{
+"name": "gardner-webb university",
+"aff_id": -1
+},
+{
+"name": "georgia southern university",
+"aff_id": "39815113"
+},
+{
+"name": "grand canyon university",
+"aff_id": "311071055"
+},
+{
+"name": "indiana state university",
+"aff_id": "86420138"
+},
+{
+"name": "indiana university of pennsylvania",
+"aff_id": "200885203"
+},
+{
+"name": "jackson state university",
+"aff_id": "61937129"
+},
+{
+"name": "kennesaw state university",
+"aff_id": "172980758"
+},
+{
+"name": "lamar university",
+"aff_id": "177898655"
+},
+{
+"name": "liberty university",
+"aff_id": "67789559"
+},
+{
+"name": "lindenwood university",
+"aff_id": "98865867"
+},
+{
+"name": "louisiana tech university",
+"aff_id": "919208787"
+},
+{
+"name": "middle tennessee state university",
+"aff_id": "169615421"
+},
+{
+"name": "morgan state university",
+"aff_id": "83909951"
+},
+{
+"name": "national louis university",
+"aff_id": "194163208"
+},
+{
+"name": "north carolina a&t state university",
+"aff_id": -1
+},
+{
+"name": "northern arizona university",
+"aff_id": "203172682"
+},
+{
+"name": "northern illinois university",
+"aff_id": "102502594"
+},
+{
+"name": "oakland university",
+"aff_id": "177721651"
+},
+{
+"name": "portland state university",
+"aff_id": "126345244"
+},
+{
+"name": "prairie view a&m university",
+"aff_id": -1
+},
+{
+"name": "sam houston state university",
+"aff_id": "191429286"
+},
+{
+"name": "san francisco state university",
+"aff_id": "71838634"
+},
+{
+"name": "spalding university",
+"aff_id": -1
+},
+{
+"name": "tennessee state university",
+"aff_id": "75256744"
+},
+{
+"name": "tennessee technological university",
+"aff_id": "63920570"
+},
+{
+"name": "texas a&m university commerce",
+"aff_id": -1
+},
+{
+"name": "texas a&m university corpus christi",
+"aff_id": -1
+},
+{
+"name": "texas a&m university kingsville",
+"aff_id": -1
+},
+{
+"name": "texas southern university",
+"aff_id": "48205209"
+},
+{
+"name": "texas state university",
+"aff_id": "13511017"
+},
+{
+"name": "texas woman's university",
+"aff_id": -1
+},
+{
+"name": "trevecca nazarene university",
+"aff_id": -1
+},
+{
+"name": "trinity international university",
+"aff_id": "19250435"
+},
+{
+"name": "university of akron",
+"aff_id": "110152177"
+},
+{
+"name": "university of alabama huntsville",
+"aff_id": -1
+},
+{
+"name": "university of arkansas little rock",
+"aff_id": -1
+},
+{
+"name": "university of louisiana lafayette",
+"aff_id": -1
+},
+{
+"name": "university of louisiana monroe",
+"aff_id": -1
+},
+{
+"name": "university of maryland eastern shore",
+"aff_id": "22407884"
+},
+{
+"name": "university of memphis",
+"aff_id": "94658018"
+},
+{
+"name": "university of missouri kansas city",
+"aff_id": "75421653"
+},
+{
+"name": "university of nebraska omaha",
+"aff_id": "122266389"
+},
+{
+"name": "university of nevada las vegas",
+"aff_id": "133999245"
+},
+{
+"name": "university of new orleans",
+"aff_id": "192396691"
+},
+{
+"name": "university of northern colorado",
+"aff_id": "71966907"
+},
+{
+"name": "university of north texas",
+"aff_id": "123534392"
+},
+{
+"name": "university of south alabama",
+"aff_id": "83809506"
+},
+{
+"name": "university of southern mississippi",
+"aff_id": "44854399"
+},
+{
+"name": "university of texas el paso",
+"aff_id": -1
+},
+{
+"name": "university of texas rio grande valley",
+"aff_id": -1
+},
+{
+"name": "university of texas san antonio",
+"aff_id": -1
+},
+{
+"name": "university of the cumberlands",
+"aff_id": -1
+},
+{
+"name": "university of toledo",
+"aff_id": "90871651"
+},
+{
+"name": "university of west florida",
+"aff_id": "83683471"
+},
+{
+"name": "university of west georgia",
+"aff_id": "5950314"
+},
+{
+"name": "university of wisconsin milwaukee",
+"aff_id": "43579087"
+},
+{
+"name": "valdosta state university",
+"aff_id": "102716817"
+},
+{
+"name": "wichita state university",
+"aff_id": "39587148"
+},
+{
+"name": "wilmington university",
+"aff_id": "210824098"
+},
+{
+"name": "wright state university",
+"aff_id": "19648265"
+},
+{
+"name": "alliant international university",
+"aff_id": "126533617"
+},
+{
+"name": "argosy university",
+"aff_id": -1
+},
+{
+"name": "california institute of integral studies",
+"aff_id": -1
+},
+{
+"name": "capella university",
+"aff_id": "193424650"
+},
+{
+"name": "cuny graduate center",
+"aff_id": -1
+},
+{
+"name": "idaho state university",
+"aff_id": "106969075"
+},
+{
+"name": "northcentral university",
+"aff_id": "141197729"
+},
+{
+"name": "trident university international",
+"aff_id": "860576493"
+},
+{
+"name": "union institute and university",
+"aff_id": -1
+},
+{
+"name": "university of oklahoma",
+"aff_id": "8692664"
+},
+{
+"name": "university of phoenix",
+"aff_id": "176279760"
+},
+{
+"name": "walden university",
+"aff_id": "80046288"
+}
+]
