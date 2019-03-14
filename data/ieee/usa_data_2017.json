@@ -1,0 +1,814 @@
+[
+    {
+        "articleNumber": "7936455",
+        "title": "Trend Analysis of Fragmented Time Series for mHealth Apps: Hypothesis Testing Based Adaptive Spline Filtering Method With Importance Weighting",
+        "country": "USA",
+        "affiliation_name": "Department of Computational Science and Engineering, North Carolina A&T State University, Greensboro, NC, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "8119726",
+        "title": "Nonlinear, Active, and Tunable Metasurfaces for Advanced Electromagnetics Applications",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, University of California at San Diego, La Jolla, CA, USA",
+        "ranking": 17
+    },
+    {
+        "articleNumber": "8126229",
+        "title": "A Novel Weak Estimator For Dynamic Systems",
+        "country": "USA",
+        "affiliation_name": "Department of Mathematical Sciences, University of Nevada, Las Vegas, NV, USA",
+        "ranking": 743
+    },
+    {
+        "articleNumber": "8105805",
+        "title": "Toward Efficient Hub-Less Real Time Personalized PageRank",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, University of Nevada at Las Vegas, Las Vegas, NV, USA",
+        "ranking": 743
+    },
+    {
+        "articleNumber": "8114178",
+        "title": "Rethinking Machine Vision Time of Flight With GHz Heterodyning",
+        "country": "USA",
+        "affiliation_name": "Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "ranking": 2
+    },
+    {
+        "articleNumber": "8093999",
+        "title": "A Novel Data Analytical Approach for False Data Injection Cyber-Physical Attack Mitigation in Smart Grids",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Manhattan College, Riverdale, NY, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "8101478",
+        "title": "Deterministic and Efficient Quantum Key Distribution Using Entanglement Parity Bits and Ancillary Qubits",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science and Engineering, University of Bridgeport, Bridgeport, CT, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "8066287",
+        "title": "Advancing Software-Defined Networks: A Survey",
+        "country": "USA",
+        "affiliation_name": "Soar Technology, Inc., Ann Arbor, MI, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "8107678",
+        "title": "3D Printed Electronics With High Performance, Multi-Layered Electrical Interconnect",
+        "country": "USA",
+        "affiliation_name": "W.M. Keck Center for 3D Innovation, The University of Texas at El Paso, El Paso, TX, USA",
+        "ranking": 880
+    },
+    {
+        "articleNumber": "8101456",
+        "title": "A Multi-Dimensional Holomorphic Embedding Method to Solve AC Power Flows",
+        "country": "USA",
+        "affiliation_name": "Department of EECS, University of Tennessee, Knoxville, TN, USA",
+        "ranking": 202
+    },
+    {
+        "articleNumber": "8093747",
+        "title": "ParkSense: Automatic Parking Positioning by Leveraging In-Vehicle Magnetic Field Variation",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, University of Colorado Boulder, Boulder, CO, USA",
+        "ranking": 43
+    },
+    {
+        "articleNumber": "8093604",
+        "title": "Securing Untrusted RF-EH Relay Networks Using Cooperative Jamming Signals",
+        "country": "USA",
+        "affiliation_name": "Electrical Engineering Department, The University of Texas at Dallas, Richardson, TX, USA",
+        "ranking": 260
+    },
+    {
+        "articleNumber": "8107488",
+        "title": "Low-Power Low-VHF Ad-Hoc Networking in Complex Environments",
+        "country": "USA",
+        "affiliation_name": "Computational and Information Science Directorate, U.S. Army Research Laboratory, Adelphi, MD, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "8070118",
+        "title": "Evaluating Spatial Resolution and Channel Capacity of Sparse Cylindrical Arrays for Massive MIMO",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, The University of Texas at Arlington, Arlington, TX, USA",
+        "ranking": 446
+    },
+    {
+        "articleNumber": "8080161",
+        "title": "Vision-Based Real-Time Aerial Object Localization and Tracking for UAV Sensing System",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering and Computer Science, University of Kansas, Lawrence, KS, USA",
+        "ranking": 266
+    },
+    {
+        "articleNumber": "8070941",
+        "title": "Achievable Rates of Buffer-Aided Full-Duplex Gaussian Relay Channels",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, University of Texas at Dallas, Richardson, TX, USA",
+        "ranking": 260
+    },
+    {
+        "articleNumber": "8037967",
+        "title": "Compressive Sensing-Based Optimal Reactive Power Control of a Multi-Area Power System",
+        "country": "USA",
+        "affiliation_name": "Electrical and Computer Engineering Department, Carnegie Mellon University, Pittsburgh, PA, USA",
+        "ranking": 81
+    },
+    {
+        "articleNumber": "8031965",
+        "title": "Sequential Loop Closure Based Adaptive Output Feedback",
+        "country": "USA",
+        "affiliation_name": "Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "ranking": 2
+    },
+    {
+        "articleNumber": "8055546",
+        "title": "Multi-Temporal Depth Motion Maps-Based Local Binary Patterns for 3-D Human Action Recognition",
+        "country": "USA",
+        "affiliation_name": "Center for Research in Computer Vision, University of Central Florida, Orlando, FL, USA",
+        "ranking": 486
+    },
+    {
+        "articleNumber": "8064624",
+        "title": "Intelligent Gaming for Mobile Crowd-Sensing Participants to Acquire Trustworthy Big Data in the Internet of Things",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Clarkson University, Potsdam, NY, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "8058415",
+        "title": "Visible Light Communication Module: An Open Source Extension to the ns3 Network Simulator With Real System Validation",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, New Jersey Institute of Technology, Newark, NJ, USA",
+        "ranking": 782
+    },
+    {
+        "articleNumber": "8063396",
+        "title": "Citation-Based Journal Rankings: Key Questions, Metrics, and Data Sources",
+        "country": "USA",
+        "affiliation_name": "Mary Alice & Tom O\u2019Malley Library, Manhattan College, Riverdale, NY, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "8080363",
+        "title": "Coprime Interpolation and Compressive Sensing for Future Heterogeneous Network Towards 5G",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, University of Texas at Arlington, Arlington, TX, USA",
+        "ranking": 446
+    },
+    {
+        "articleNumber": "8063416",
+        "title": "3D Convolutional Neural Networks for Cross Audio-Visual Matching Recognition",
+        "country": "USA",
+        "affiliation_name": "Lane Department of Computer Science and Electrical Engineering, West Virginia University College of Engineering and Mineral Resources, Morgantown, WV, USA",
+        "ranking": 609
+    },
+    {
+        "articleNumber": "8063454",
+        "title": "Indoor Navigation Validation Framework for Visually Impaired Users",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, MA, USA",
+        "ranking": 119
+    },
+    {
+        "articleNumber": "8065025",
+        "title": "Performance Analysis of Distributed Auxiliary Radio Telescopes Under Shared Spectrum Access Paradigm and Cooling Power Constraint",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, The University of Texas at Dallas, Richardson, TX, USA",
+        "ranking": 260
+    },
+    {
+        "articleNumber": "8063326",
+        "title": "A Malaria Analytics Framework to Support Evolution and Interoperability of Global Health Surveillance Systems",
+        "country": "USA",
+        "affiliation_name": "Department of Pediatrics, Oak Ridge National Laboratory, Center for Biomedical Informatics, University of Tennessee Health Science Center, Memphis, TN, USA",
+        "ranking": 202
+    },
+    {
+        "articleNumber": "8060974",
+        "title": "Rule-Based Human Motion Tracking for Rehabilitation Exercises: Realtime Assessment, Feedback, and Guidance",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering and Computer Science, Cleveland State University, Cleveland, OH, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "8039151",
+        "title": "The Effect of Inverter Failures on the Return on Investment of Solar Photovoltaic Systems",
+        "country": "USA",
+        "affiliation_name": "Center for Advanced Life Cycle Engineering, University of Maryland at College Park, College Park, MD, USA",
+        "ranking": 51
+    },
+    {
+        "articleNumber": "8053923",
+        "title": "Transient Energy Efficiency Analysis of Field Oriented Induction Machines",
+        "country": "USA",
+        "affiliation_name": "Electrical Engineering Department, University of North Dakota, Grand Forks, ND, USA",
+        "ranking": 964
+    },
+    {
+        "articleNumber": "8066282",
+        "title": "Dynamic Network Model for Smart City Data-Loss Resilience Case Study: City-to-City Network for Crime Analytics",
+        "country": "USA",
+        "affiliation_name": "National Institute of Standards and Technology, Gaithersburg, MD, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "8031314",
+        "title": "Practical Incentive Mechanisms for IoT-Based Mobile Crowdsensing Systems",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, Georgia State University, Atlanta, GA, USA",
+        "ranking": 454
+    },
+    {
+        "articleNumber": "8046006",
+        "title": "Sparse-Prior-Based Projection Distance Optimization Method for Joint CT-MRI Reconstruction",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Virginia Tech, Falls Church, VA, USA",
+        "ranking": 257
+    },
+    {
+        "articleNumber": "8039164",
+        "title": "Distributed Large-Scale Co-Simulation for IoT-Aided Smart Grid Control",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, University of Florida, Gainesville, FL, USA",
+        "ranking": 107
+    },
+    {
+        "articleNumber": "8047445",
+        "title": "Perturbation-Based Private Profile Matching in Social Networks",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, The George Washington University, Washington, DC, USA",
+        "ranking": 257
+    },
+    {
+        "articleNumber": "8027035",
+        "title": "SURF: Subject-Adaptive Unsupervised ECG Signal Compression for Wearable Fitness Monitors",
+        "country": "USA",
+        "affiliation_name": "Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI, USA",
+        "ranking": 18
+    },
+    {
+        "articleNumber": "8048606",
+        "title": "Hybrid MMSE Precoding and Combining Designs for mmWave Multiuser Systems",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, San Diego State University, San Diego, CA, USA",
+        "ranking": 542
+    },
+    {
+        "articleNumber": "8049281",
+        "title": "A Decentralized Trustworthy Context and QoS-Aware Service Discovery Framework for the Internet of Things",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, North Dakota State University, Fargo, ND, USA",
+        "ranking": 905
+    },
+    {
+        "articleNumber": "8047929",
+        "title": "Robust Structure and Motion Recovery Based on Augmented Factorization",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering and Computer Science, University of Kansas, Lawrence, KS, USA",
+        "ranking": 266
+    },
+    {
+        "articleNumber": "8031334",
+        "title": "Effects of Soft Drinks on Resting State EEG and Brain\u2013Computer Interface Performance",
+        "country": "USA",
+        "affiliation_name": "Department of Biomedical Engineering, University of Minnesota, Minneapolis, MN, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7883931",
+        "title": "Flexible Radio Access Beyond 5G: A Future Projection on Waveform, Numerology, and Frame Design Principles",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, University of South Florida, Tampa, FL, USA",
+        "ranking": 286
+    },
+    {
+        "articleNumber": "8022693",
+        "title": "Theoretical and Experimental Comparison of Off-Grid Sparse Bayesian Direction-of-Arrival Estimation Algorithms",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, University of California at San Diego, La Jolla, CA, USA",
+        "ranking": 17
+    },
+    {
+        "articleNumber": "8013035",
+        "title": "A Shared Secret Key Initiated by EPR Authentication and Qubit Transmission Channels",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science and Engineering, University of Bridgeport, Bridgeport, CT, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7990214",
+        "title": "SmartCityWare: A Service-Oriented Middleware for Cloud and Fog Enabled Smart City Services",
+        "country": "USA",
+        "affiliation_name": "Middleware Technologies Laboratory, Pittsburgh, PA, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7956145",
+        "title": "Practical Design and Implementation of Metamaterial-Enhanced Magnetic Induction Communication",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, The State University of New York at Buffalo, Buffalo, NY, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "8017402",
+        "title": "Threat From Being Social: Vulnerability Analysis of Social Network Coupled Smart Grid",
+        "country": "USA",
+        "affiliation_name": "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+        "ranking": 107
+    },
+    {
+        "articleNumber": "8002571",
+        "title": "Multidimensional OAM-Based Secure High-Speed Wireless Communications",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, College of Engineering, The University of Arizona, Tucson, AZ, USA",
+        "ranking": 81
+    },
+    {
+        "articleNumber": "7866011",
+        "title": "Transitivity Demolition and the Fall of Social Networks",
+        "country": "USA",
+        "affiliation_name": "Computer Science Department, Virginia Commonwealth University, Richmond, VA, USA",
+        "ranking": 373
+    },
+    {
+        "articleNumber": "8000571",
+        "title": "A Novel Online and Non-Parametric Approach for Drift Detection in Big Data",
+        "country": "USA",
+        "affiliation_name": "Big Data Hub, University of Nevada at Las Vegas, Las Vegas, NV, USA",
+        "ranking": 743
+    },
+    {
+        "articleNumber": "7994606",
+        "title": "Resilient Design of Networked Control Systems Under Time Delay Switch Attacks, Application in Smart Grid",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, Florida Polytechnic University, Lakeland, FL, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7814213",
+        "title": "Interactive Multiple Model Filter for Land-Mobile Satellite Communications at Ka-Band",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA, USA",
+        "ranking": 933
+    },
+    {
+        "articleNumber": "7939976",
+        "title": "Design and Analysis of a Reconfigurable Holographic Metasurface Aperture for Dynamic Focusing in the Fresnel Zone",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Center for Metamaterials and Integrated Plasmonics, Duke University, Durham, NC, USA",
+        "ranking": 22
+    },
+    {
+        "articleNumber": "7932851",
+        "title": "Exploring Scalability and Time-Sensitiveness in Reliable Social Sensing With Accuracy Assessment",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science and Engineering, University of Notre Dame, Notre Dame, IN, USA",
+        "ranking": 208
+    },
+    {
+        "articleNumber": "7979513",
+        "title": "Supervisory Control for Resilient Chiller Plants Under Condenser Fouling",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, University of Connecticut, Storrs, USA",
+        "ranking": 310
+    },
+    {
+        "articleNumber": "7983344",
+        "title": "Learning, Visualizing, and Assessing a Model for the Intrinsic Value of a Batted Ball",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering and Computer Science, University of California at Irvine, Irvine, CA, USA",
+        "ranking": 78
+    },
+    {
+        "articleNumber": "7976287",
+        "title": "Uncovering Suspicious Activity From Partially Paired and Incomplete Multimodal Data",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science and Technology, University of Nevada at Las Vegas, Las Vegas, NV, USA",
+        "ranking": 743
+    },
+    {
+        "articleNumber": "7954762",
+        "title": "Biometrics Based on Hand Synergies and Their Neural Representations",
+        "country": "USA",
+        "affiliation_name": "Department of Biomedical Engineering, Stevens Institute of Technology, Hoboken, NJ, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7959181",
+        "title": "The Ghost Operator and Its Applications to Reveal the Physical Meaning of Reactive Power for Electrical and Mechanical Systems and Others",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Illinois Institute of Technology, Chicago, IL, USA",
+        "ranking": 641
+    },
+    {
+        "articleNumber": "7968433",
+        "title": "Using Proxies for Node Immunization Identification on Large Graphs",
+        "country": "USA",
+        "affiliation_name": "Department of Mathematical Science and Big Data Hub, University of Nevada at Las Vegas, Las Vegas, NV, USA",
+        "ranking": 743
+    },
+    {
+        "articleNumber": "7979510",
+        "title": "A Customizable Framework for Prioritizing Systems Security Engineering Processes, Activities, and Tasks",
+        "country": "USA",
+        "affiliation_name": "Air Force Institute of Technology, Wright-Patterson AFB, OH, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7964683",
+        "title": "Power Budgets for CubeSat Radios to Support Ground Communications and Inter-Satellite Links",
+        "country": "USA",
+        "affiliation_name": "Department of Engineering Technology, Old Dominion University, Norfolk, VA, USA",
+        "ranking": 738
+    },
+    {
+        "articleNumber": "7932848",
+        "title": "A Context-Driven Framework for Proactive Decision Support With Applications",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, University of Connecticut, Storrs, CT, USA",
+        "ranking": 310
+    },
+    {
+        "articleNumber": "7990314",
+        "title": "IEEE<italic>Access</italic>Special Section Editorial: Innovations in Electrical and Computer Engineering Education",
+        "country": "USA",
+        "affiliation_name": "University of Central Florida, Orlando, FL, USA",
+        "ranking": 486
+    },
+    {
+        "articleNumber": "7953474",
+        "title": "Propagation and Scattering by a Layer of Randomly Distributed Dielectric Cylinders Using Monte Carlo Simulations of 3D Maxwell Equations With Applications in Microwave Interactions With Vegetation",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering and Computer Science, Radiation Laboratory, University of Michigan, Ann Arbor, MI, USA",
+        "ranking": 18
+    },
+    {
+        "articleNumber": "7933065",
+        "title": "HeartID: A Multiresolution Convolutional Neural Network for ECG-Based Biometric Human Identification in Smart Health Applications",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, The University of Texas at Dallas, Richardson, TX, USA",
+        "ranking": 260
+    },
+    {
+        "articleNumber": "7954590",
+        "title": "A Secure and Practical Authentication Scheme Using Personal Devices",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, The George Washington University, Washington, DC, USA",
+        "ranking": 257
+    },
+    {
+        "articleNumber": "7932434",
+        "title": "Source Location Identification of Distribution-Level Electric Network Frequency Signals at Multiple Geographic Scales",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering and Computer Science, The University of Tennessee, Knoxville, TN, USA",
+        "ranking": 202
+    },
+    {
+        "articleNumber": "7948732",
+        "title": "Trusted Interconnections Between a Centralized Controller and Commercial Building HVAC Systems for Reliable Demand Response",
+        "country": "USA",
+        "affiliation_name": "Photovoltaic and Distributed Systems Integration Department, Sandia National Laboratories, Albuquerque, NM, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7927410",
+        "title": "Adaptive Legged Robots Through Exactly Constrained and Non-Redundant Design",
+        "country": "USA",
+        "affiliation_name": "Department of Mechanical Engineering and Materials Science, Yale University, New Haven, CT, USA",
+        "ranking": 11
+    },
+    {
+        "articleNumber": "7934303",
+        "title": "Physical Human\u2013Robot Interaction (pHRI) in 6 DOF With Asymmetric Cooperation",
+        "country": "USA",
+        "affiliation_name": "School of Engineering for Matter, Transport and Energy, Arizona State University, Tempe, AZ, USA",
+        "ranking": 145
+    },
+    {
+        "articleNumber": "7933339",
+        "title": "A Machine Learning-Empowered System for Long-Term Motion-Tolerant Wearable Monitoring of Blood Pressure and Heart Rate With Ear-ECG/PPG",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, The University of Texas at Dallas, Richardson, TX, USA",
+        "ranking": 260
+    },
+    {
+        "articleNumber": "7944553",
+        "title": "Secrecy Rates and Optimal Power Allocation for Full-Duplex Decode-and-Forward Relay Wire-Tap Channels",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, The University of Akron, Akron, OH, USA",
+        "ranking": 753
+    },
+    {
+        "articleNumber": "7938619",
+        "title": "A Smartphone-Based Multi-Functional Hearing Assistive System to Facilitate Speech Recognition in the Classroom",
+        "country": "USA",
+        "affiliation_name": "School of Computer Science, Georgia Institute of Technology, Atlanta, GA, USA",
+        "ranking": 69
+    },
+    {
+        "articleNumber": "7932849",
+        "title": "A Comparative Study of Voice Quality and Coverage for Voice over Long Term Evolution Calls Using Different Codec Mode-sets",
+        "country": "USA",
+        "affiliation_name": "U.S. Cellular, Chicago, IL, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7937803",
+        "title": "Multiuser Gain in Energy Harvesting Wireless Communications",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Texas A&M University, College Station, TX, USA",
+        "ranking": 125
+    },
+    {
+        "articleNumber": "7922531",
+        "title": "Ant Colony System Sanitization Approach to Hiding Sensitive Itemsets",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, University of Nevada, Las Vegas, NV, USA",
+        "ranking": 743
+    },
+    {
+        "articleNumber": "7927395",
+        "title": "Design and Analysis of a W-Band Metasurface-Based Computational Imaging System",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Center for Metamaterials and Integrated Plasmonics, Duke University, Durham, NC, USA",
+        "ranking": 22
+    },
+    {
+        "articleNumber": "7891605",
+        "title": "First Steps Towards Translating HZD Control of Bipedal Robots to Decentralized Control of Exoskeletons",
+        "country": "USA",
+        "affiliation_name": "Department of Mechanical Engineering, Carnegie Mellon University, Pittsburgh, PA, USA",
+        "ranking": 81
+    },
+    {
+        "articleNumber": "7937809",
+        "title": "Fast Trajectory Planning and Robust Trajectory Tracking for Pedestrian Avoidance",
+        "country": "USA",
+        "affiliation_name": "Department of Mechanical Engineering, University of Michigan, Ann Arbor, MI, USA",
+        "ranking": 18
+    },
+    {
+        "articleNumber": "7932452",
+        "title": "An Attribute-Based Encryption Scheme to Secure Fog Communications",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, The George Washington University, Washington, DC, USA",
+        "ranking": 257
+    },
+    {
+        "articleNumber": "7909042",
+        "title": "Semisoft Generalized Total Variation Minimization for Image Reconstruction in Computed Tomography",
+        "country": "USA",
+        "affiliation_name": "Department of Mathematical Sciences, Georgia Southern University, Statesboro, GA, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7896576",
+        "title": "The Unfitness of Traditional Military Thinking in Cyber",
+        "country": "USA",
+        "affiliation_name": "West Point United States Military Academy, Army Cyber Institute, West Point, NY, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7898425",
+        "title": "Minimizing Carbon Dioxide Emissions Due to Container Handling at Marine Container Terminals via Hybrid Evolutionary Algorithms",
+        "country": "USA",
+        "affiliation_name": "Department of Civil and Environmental Engineering, Florida A&M University-Florida State University, Tallahassee, FL, USA",
+        "ranking": 193
+    },
+    {
+        "articleNumber": "7891011",
+        "title": "A Holistic Approach to Transforming Undergraduate Electrical Engineering Education",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Colorado State University, Fort Collins, CO, USA",
+        "ranking": 270
+    },
+    {
+        "articleNumber": "7888911",
+        "title": "Fuzzy-Based Game Theoretic Mobility Management for Energy Efficient Operation in HetNets",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Florida International University, Miami, USA",
+        "ranking": 409
+    },
+    {
+        "articleNumber": "7892914",
+        "title": "Stochastic Geometry-Based Modeling and Analysis of Citizens Broadband Radio Service System",
+        "country": "USA",
+        "affiliation_name": "Department of ECE, Wireless&VT, Virginia Tech, Blacksburg, VA, USA",
+        "ranking": 257
+    },
+    {
+        "articleNumber": "7911176",
+        "title": "Systems Engineering Baseline Concept of a Multispectral Drone Detection Solution for Airports",
+        "country": "USA",
+        "affiliation_name": "Azusa Pacific University, Azusa, CA, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7892964",
+        "title": "Modeling and Performance Analysis of Metallic Plasmonic Nano-Antennas for Wireless Optical Communication in Nanonetworks",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, University at Buffalo, The State University of New York, Buffalo, NY, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7885539",
+        "title": "A Risk-Informed Interference Assessment of MetSat/LTE Coexistence",
+        "country": "USA",
+        "affiliation_name": "Silicon Flatirons Center, University of Colorado Law School, Boulder, CO, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7870581",
+        "title": "SURE: A Novel Approach for Self Healing Battery Starved Users Using Energy Harvesting",
+        "country": "USA",
+        "affiliation_name": "Iowa State University, Ames, IA, USA",
+        "ranking": 212
+    },
+    {
+        "articleNumber": "7903612",
+        "title": "Impact of the Wireless Network\u2019s PHY Security and Reliability on Demand-Side Management Cost in the Smart Grid",
+        "country": "USA",
+        "affiliation_name": "Electrical Engineering Department, The University of Texas at Dallas, Richardson, TX, USA",
+        "ranking": 260
+    },
+    {
+        "articleNumber": "7893733",
+        "title": "A Robust and Secure Video Steganography Method in DWT-DCT Domains Based on Multiple Object Tracking and ECC",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science and Engineering, University of Bridgeport, Bridgeport, CT, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7904710",
+        "title": "QoS Recommendation in Cloud Services",
+        "country": "USA",
+        "affiliation_name": "Information Technology and Decision Sciences Department, Old Dominion University, Norfolk, VA, USA",
+        "ranking": 738
+    },
+    {
+        "articleNumber": "7883847",
+        "title": "Planning Wireless Cellular Networks of Future: Outlook, Challenges and Opportunities",
+        "country": "USA",
+        "affiliation_name": "TechTrained LLC, Richardson, TX, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7869378",
+        "title": "The Expansive (Dis)Integration of Electrical Engineering Education",
+        "country": "USA",
+        "affiliation_name": "School of Engineering Education and School of Electrical and Computer Engineering, Purdue University, West Lafayette, IN, USA",
+        "ranking": 113
+    },
+    {
+        "articleNumber": "7891044",
+        "title": "Impact of High PV Penetration on the Inter-Area Oscillations in the U.S. Eastern Interconnection",
+        "country": "USA",
+        "affiliation_name": "The University of Tennessee, Knoxville, TN, USA",
+        "ranking": 202
+    },
+    {
+        "articleNumber": "7888438",
+        "title": "BiLoc: Bi-Modal Deep Learning for Indoor Localization With Commodity 5GHz WiFi",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Auburn University, Auburn, AL, USA",
+        "ranking": 658
+    },
+    {
+        "articleNumber": "7878569",
+        "title": "Equalized Time Reversal Beamforming for Frequency-Selective Indoor MISO Channels",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, ElectroScience Laboratory, The Ohio State University, Columbus, OH, USA",
+        "ranking": 46
+    },
+    {
+        "articleNumber": "7882678",
+        "title": "Certificateless Cryptographic Protocols for Efficient Drone-Based Smart City Applications",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, Purdue University, West Lafayette, IN, USA",
+        "ranking": 113
+    },
+    {
+        "articleNumber": "7867802",
+        "title": "Distributed User Association in Energy Harvesting Dense Small Cell Networks: A Mean-Field Multi-Armed Bandit Approach",
+        "country": "USA",
+        "affiliation_name": "Yale School of Engineering and Applied Science, Yale University, New Haven, CT, USA",
+        "ranking": 11
+    },
+    {
+        "articleNumber": "7875118",
+        "title": "System-Agnostic Security Domains for Understanding and Prioritizing Systems Security Engineering Efforts",
+        "country": "USA",
+        "affiliation_name": "Wright-Patterson AFB, Air Force Institute of Technology, OH, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7733149",
+        "title": "A Survey of Client-Controlled HetNets for 5G",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, Princeton University, Princeton, NJ, USA",
+        "ranking": 9
+    },
+    {
+        "articleNumber": "7847322",
+        "title": "Online Placement of Multi-Component Applications in Edge Computing Environments",
+        "country": "USA",
+        "affiliation_name": "IBM T. J. Watson Research Center, Yorktown Heights, NY, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7849130",
+        "title": "A Distribution Level Wide Area Monitoring System for the Electric Power Grid\u2013FNET/GridEye",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville, TN, USA",
+        "ranking": 202
+    },
+    {
+        "articleNumber": "7859259",
+        "title": "Dataflow in MATLAB: Algorithm Acceleration Through Concurrency",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Wireless Innovation Laboratory, Worcester Polytechnic Institute, Worcester, MA, USA",
+        "ranking": 933
+    },
+    {
+        "articleNumber": "7835154",
+        "title": "An Integrated eVoucher Mechanism for Flexible Loads in Real-Time Retail Electricity Market",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, University of Michigan\u2013Dearborn, Dearborn, MI, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7817805",
+        "title": "Orthogonal AMP",
+        "country": "USA",
+        "affiliation_name": "Department of Statistics, Columbia University, New York, NY, USA",
+        "ranking": 8
+    },
+    {
+        "articleNumber": "7859292",
+        "title": "Fourier Accelerated Multistatic Imaging: A Fast Reconstruction Algorithm for Multiple-Input-Multiple-Output Radar Imaging",
+        "country": "USA",
+        "affiliation_name": "Center for Metamaterials and Integrated Plasmonics, Department of Electrical and Computer Engineering, Duke University, Durham, NC, USA",
+        "ranking": 22
+    },
+    {
+        "articleNumber": "7847396",
+        "title": "Far-Field RF Wireless Power Transfer with Blind Adaptive Beamforming for Internet of Things Devices",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, Columbia University, New York City, NY, USA",
+        "ranking": 8
+    },
+    {
+        "articleNumber": "7835651",
+        "title": "Quantifying User Reputation Scores, Data Trustworthiness, and User Incentives in Mobile Crowd-Sensing",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Clarkson University, Potsdam, NY, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "7842533",
+        "title": "A Multi-Institutional Approach to Delivering Shared Curricula for Developing a Next-Generation Energy Workforce",
+        "country": "USA",
+        "affiliation_name": "University of Kentucky, Lexington, KY, USA",
+        "ranking": 330
+    },
+    {
+        "articleNumber": "7779075",
+        "title": "Hybrid Imaging System for Simultaneous Spiral MR and X-ray (MRX) Scans",
+        "country": "USA",
+        "affiliation_name": "Department of Biomedical Engineering, Biomedical Imaging Center, Rensselaer Polytechnic Institute, Troy, NY, USA",
+        "ranking": 480
+    },
+    {
+        "articleNumber": "7748482",
+        "title": "Orientation and Displacement Detection for Smartphone Device Based IMUs",
+        "country": "USA",
+        "affiliation_name": "Columbia University, New York City, NY, USA",
+        "ranking": 8
+    },
+    {
+        "articleNumber": "7801849",
+        "title": "A Novel Cloud-Based Platform for Implementation of Oblivious Power Routing for Clusters of Microgrids",
+        "country": "USA",
+        "affiliation_name": "School of Computer Science, Florida International University, Miami, FL, USA",
+        "ranking": 409
+    },
+    {
+        "articleNumber": "7865892",
+        "title": "An Adaptive Educational Web Application for Engineering Students",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Purdue University, West Lafayette, IN, USA",
+        "ranking": 113
+    },
+    {
+        "articleNumber": "7782415",
+        "title": "Survey of RF Communications and Sensing Convergence Research",
+        "country": "USA",
+        "affiliation_name": "Bliss Laboratory of Information, Signals, and Systems and the Center for Wireless Information Systems and Computational Architectures, Arizona State University, Tempe, AZ, USA",
+        "ranking": 145
+    }
+]

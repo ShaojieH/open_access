@@ -1,0 +1,212 @@
+[
+    {
+        "articleNumber": "6515027",
+        "title": "Information Forensics: An Overview of the First Decade",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, University of Maryland, College Park, MD, USA",
+        "ranking": 51
+    },
+    {
+        "articleNumber": "6515079",
+        "title": "Robust Optimal Control of Quadrotor UAVs",
+        "country": "USA",
+        "affiliation_name": "University of Texas at Dallas, Richardson, TX, USA",
+        "ranking": 260
+    },
+    {
+        "articleNumber": "6514815",
+        "title": "A Distortion-Based Approach to Privacy-Preserving Metering in Smart Grids",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering, University of Southern California, Los Angeles, CA, USA",
+        "ranking": 62
+    },
+    {
+        "articleNumber": "6514817",
+        "title": "Heuristics for Design for Reliability for Electrical and Electronic Products",
+        "country": "USA",
+        "affiliation_name": "Raheja Consulting, Inc., Laurel, MD, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "6514970",
+        "title": "Real-World Neuroimaging Technologies",
+        "country": "USA",
+        "affiliation_name": "Translational Neuroscience Branch, U.S. Army Research Laboratory, Aberdeen Proving Ground, MD, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "6514968",
+        "title": "BSIM\u2014SPICE Models Enable FinFET and UTB IC Designs",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering and Computer Science, University of California, Berkeley, CA, USA",
+        "ranking": 4
+    },
+    {
+        "articleNumber": "6671403",
+        "title": "Electromagnetic Properties of Disordered Three-Dimensional Mixtures",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, North Carolina State University, Raleigh, NC, USA",
+        "ranking": 217
+    },
+    {
+        "articleNumber": "6678531",
+        "title": "A Low-Cost Open-Source Metal 3-D Printer",
+        "country": "USA",
+        "affiliation_name": "Department of Materials Science and Engineering, Michigan Technological University, Houghton, MI, USA",
+        "ranking": 734
+    },
+    {
+        "articleNumber": "6651631",
+        "title": "Extending Non-Volatile Operation to DRAM Cells",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Northeastern University, Boston, MA, USA",
+        "ranking": 202
+    },
+    {
+        "articleNumber": "6644251",
+        "title": "A Study on the Effect of Traceability Links in Software Maintenance",
+        "country": "USA",
+        "affiliation_name": "School of Electrical Engineering and Computer Science, Ohio University, Athens, OH, USA",
+        "ranking": 658
+    },
+    {
+        "articleNumber": "6615910",
+        "title": "On Adaptive Control With Closed-Loop Reference Models: Transients, Oscillations, and Peaking",
+        "country": "USA",
+        "affiliation_name": "Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "ranking": 2
+    },
+    {
+        "articleNumber": "6662399",
+        "title": "Solving Large Nonlinear Systems of First-Order Ordinary Differential Equations With Hierarchical Structure Using Multi-GPGPUs and an Adaptive Runge Kutta ODE Solver",
+        "country": "USA",
+        "affiliation_name": "Institute of Bioinformatics, University of Georgia, Athens, GA, USA",
+        "ranking": 280
+    },
+    {
+        "articleNumber": "6584730",
+        "title": "Effective Permittivity of 3-D Periodic Composites With Regular and Irregular Inclusions",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, North Carolina State University, Raleigh, NC, USA",
+        "ranking": 217
+    },
+    {
+        "articleNumber": "6578071",
+        "title": "An Informative Interpretation of Decision Theory: The Information Theoretic Basis for Signal-to-Noise Ratio and Log Likelihood Ratio",
+        "country": "USA",
+        "affiliation_name": "Center for Engineering Science Advanced Research, Computer Science and Mathematics Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "6603291",
+        "title": "Wireless Video Surveillance: A Survey",
+        "country": "USA",
+        "affiliation_name": "Department of Computer and Electronics Engineering, University of Nebraska-Lincoln, Omaha, NE, USA",
+        "ranking": 289
+    },
+    {
+        "articleNumber": "6603321",
+        "title": "LC/DC: Lockless Containers and Data Concurrency a Novel Nonblocking Container Library for Multicore Applications",
+        "country": "USA",
+        "affiliation_name": "Sandia National Laboratories, Livermore, CA, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "6574202",
+        "title": "Does a Unified Energy Equation Contain the Higgs Field?",
+        "country": "USA",
+        "affiliation_name": "THEWAY Corporation, Tulsa, OK, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "6553357",
+        "title": "Using SST/Macro for Effective Analysis of MPI-Based Applications: Evaluating Large-Scale Genomic Sequence Search",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical Engineering and Computer Science, University of Central Florida, Orlando, FL, USA",
+        "ranking": 486
+    },
+    {
+        "articleNumber": "6556938",
+        "title": "Adaptive Estimation of Time-Varying Sparse Signals",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Colorado State University, Fort Collins, CO, USA",
+        "ranking": 270
+    },
+    {
+        "articleNumber": "6541959",
+        "title": "Solving Nonlinear Systems of First Order Ordinary Differential Equations Using a Galerkin Finite Element Method",
+        "country": "USA",
+        "affiliation_name": "Institute of Bioinformatics, University of Georgia, Athens, GA, USA",
+        "ranking": 280
+    },
+    {
+        "articleNumber": "6527980",
+        "title": "Statistical and Domain Analytics Applied to PV Module Lifetime and Degradation Science",
+        "country": "USA",
+        "affiliation_name": "Department of Material Science and Engineering, Case Western Reserve University, Cleveland, OH, USA",
+        "ranking": 152
+    },
+    {
+        "articleNumber": "6516558",
+        "title": "Mixed Models Analysis of Radar Residuals Data",
+        "country": "USA",
+        "affiliation_name": "Institute for Defense Analyses, Alexandria, VA, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "6547683",
+        "title": "Collective Estimation of Ocean Nonlinear Internal Waves Using Robotic Underwater Drifters",
+        "country": "USA",
+        "affiliation_name": "Department of Mechanical and Aerospace Engineering, University of California, San Diego, CA, USA",
+        "ranking": 17
+    },
+    {
+        "articleNumber": "6515173",
+        "title": "Millimeter Wave Mobile Communications for 5G Cellular: It Will Work!",
+        "country": "USA",
+        "affiliation_name": "NYU WIRELESS, Polytechnic Institute of New York University, New York, NY, USA",
+        "ranking": 28
+    },
+    {
+        "articleNumber": "6514922",
+        "title": "Robust Control of Mobility and Communications in Autonomous Robot Teams",
+        "country": "USA",
+        "affiliation_name": "U.S. Army Research Laboratory, Adelphi, MD, USA",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "6515327",
+        "title": "Discovering Design Principles From Dominated Solutions",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, University of Vermont, Burlington, VT, USA",
+        "ranking": 443
+    },
+    {
+        "articleNumber": "6514917",
+        "title": "Automated Creation of Complex Three-Dimensional Composite Mixtures for Use in Electromagnetic Simulation",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, North Carolina State University, Raleigh, NC, USA",
+        "ranking": 217
+    },
+    {
+        "articleNumber": "6600754",
+        "title": "Approximating Extremely Large Networks via Continuum Limits",
+        "country": "USA",
+        "affiliation_name": "Department of Electrical and Computer Engineering, Colorado State University, Ft. Collins, CO, USA",
+        "ranking": 270
+    },
+    {
+        "articleNumber": "6516567",
+        "title": "Template Aging Phenomenon in Iris Recognition",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science and Engineering, University of Notre Dame, Notre Dame, IN, USA",
+        "ranking": 208
+    },
+    {
+        "articleNumber": "6587516",
+        "title": "Team Learning for Healthcare Quality Improvement",
+        "country": "USA",
+        "affiliation_name": "Department of Computer Science, University of Vermont, Burlington, VT, USA",
+        "ranking": 443
+    }
+]

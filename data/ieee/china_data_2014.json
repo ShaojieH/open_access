@@ -1,0 +1,100 @@
+[
+    {
+        "articleNumber": "6805126",
+        "title": "Event-Based Mobile Social Networks: Services, Technologies, and Applications",
+        "country": "China",
+        "affiliation_name": "School of Software, Dalian University of Technology, Dalian, China",
+        "ranking": 24
+    },
+    {
+        "articleNumber": "7027926",
+        "title": "IEEE <italic>Access</italic> Special Section Editorial: 5G Wireless Technologies: Perspectives on the Next Generation of Mobile Communications and Networking",
+        "country": "China",
+        "affiliation_name": "Huazhong University of Science and Technology, Wuhan, China",
+        "ranking": 9
+    },
+    {
+        "articleNumber": "7027928",
+        "title": "IEEE<italic>ACCESS</italic>Special Section Editorial: Recent Advances in Cloud Radio Access Networks",
+        "country": "China",
+        "affiliation_name": "Beijing University of Posts and Telecommunication, Beijing, China",
+        "ranking": 57
+    },
+    {
+        "articleNumber": "6994948",
+        "title": "Challenges of System-Level Simulations and Performance Evaluation for 5G Wireless Networks",
+        "country": "China",
+        "affiliation_name": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China",
+        "ranking": 57
+    },
+    {
+        "articleNumber": "6955788",
+        "title": "Security and Reliability Performance Analysis for Cloud Radio Access Networks With Channel Estimation Errors",
+        "country": "China",
+        "affiliation_name": "State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, Beijing, China",
+        "ranking": 38
+    },
+    {
+        "articleNumber": "6962888",
+        "title": "Edge-Guided Dual-Modality Image Reconstruction",
+        "country": "China",
+        "affiliation_name": "Molecular Imaging Business Unit, Shanghai United Imaging Healthcare Company Ltd., Shanghai, China",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "6965610",
+        "title": "Efficiently Maintaining the Fast Updated Sequential Pattern Trees With Sequence Deletion",
+        "country": "China",
+        "affiliation_name": "Innovative Information Industry Research Center, School of Computer Science and Technology, Harbin Institute of Technology Shenzhen Graduate School, Shenzhen, China",
+        "ranking": 10
+    },
+    {
+        "articleNumber": "6914530",
+        "title": "Potentials and Challenges of C-RAN Supporting Multi-RATs Toward 5G Mobile Networks",
+        "country": "China",
+        "affiliation_name": "Shanghai Research Center for Wireless Communications, Shanghai Institute of Microsystem and Information Technology, Shanghai, China",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "6919256",
+        "title": "Information Security in Big Data: Privacy and Data Mining",
+        "country": "China",
+        "affiliation_name": "Department of Electronic Engineering, Tsinghua University, Beijing, China",
+        "ranking": 1
+    },
+    {
+        "articleNumber": "6887333",
+        "title": "Compressed Vision Information Restoration Based on Cloud Prior and Local Prior",
+        "country": "China",
+        "affiliation_name": "School of Computer Science and Technology, Harbin Institute of Technology, Harbin, China",
+        "ranking": 10
+    },
+    {
+        "articleNumber": "6905704",
+        "title": "Power Metering for Virtual Machine in Cloud Computing-Challenges and Opportunities",
+        "country": "China",
+        "affiliation_name": "Department of Computer Science and Technology, Harbin Institute of Technology Shenzhen Graduate School, Shenzhen, China",
+        "ranking": 10
+    },
+    {
+        "articleNumber": "6882182",
+        "title": "Recent Progress on C-RAN Centralization and Cloudification",
+        "country": "China",
+        "affiliation_name": "Green Communication Research Center, China Mobile Research Institute, Beijing, China",
+        "ranking": -1
+    },
+    {
+        "articleNumber": "6879489",
+        "title": "Scalable and Efficient Diagnosis for 5G Data Center Network Traffic",
+        "country": "China",
+        "affiliation_name": "School of Software, Beijing Institute of Technology, Beijing, China",
+        "ranking": 26
+    },
+    {
+        "articleNumber": "6842655",
+        "title": "Achieving Source Location Privacy and Network Lifetime Maximization Through Tree-Based Diversionary Routing in Wireless Sensor Networks",
+        "country": "China",
+        "affiliation_name": "School of Information Science and Engineering, Central South University, Changsha, China",
+        "ranking": 23
+    }
+]
